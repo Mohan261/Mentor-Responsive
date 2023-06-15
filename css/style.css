@@ -634,13 +634,12 @@
 	border-radius:50%;
 	background-color:#5FCF80;
 	text-align:center;
-	line-height:10px;
+	padding:8px;
 }
 .foot_icon{
 	color:#fff;
-	font-size:1.5em;
-	padding:8px 0!important;
-	line-height:10px;	
+	font-size:1.5em;	
+	
 }
 .footer_icons a:hover{
 	background-color:#4fb26c;
@@ -648,6 +647,7 @@
 .footer_icons{
 	display:flex;
 	gap:10px;
+	width:242px;
 }
 	/* Footer Bottom Ends */
 /*Footer Section Starts*/
