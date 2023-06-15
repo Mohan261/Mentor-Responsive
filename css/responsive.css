@@ -101,6 +101,9 @@
 .footer_right{
 	margin:0 auto;
 }
+.pt-15{
+	padding-top:15px;
+}
 }
 @media (min-width:768px) and (max-width:992px){
 	.container{
@@ -181,6 +184,15 @@
 }
 .d-none{
 	display:none;
+}
+.row-gap-md{
+	gap:20px;
+}
+.pt-md-15{
+	padding-top:15px;
+}
+.pt-md-30{
+	padding-top:30px;
 }
 /* Flex Items Ends */
 .banner_sec{
