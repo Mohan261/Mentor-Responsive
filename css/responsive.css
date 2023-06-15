@@ -78,7 +78,15 @@
 .d-none{
 	display:none;
 }
+.row-gap-sm{
+	gap:20px;
+}
 /* Flex Items Ends */
+.banner_sec{
+	height:100vh;
+	background-position:center;
+}
+
 }
 @media (min-width:768px) and (max-width:992px){
 	.container{

@@ -382,7 +382,7 @@
 /*Why Section Endss*/
 /*Icons Section Starts*/
 .icon_sec{
-	padding: 3em;
+	padding: 3em 0;
 	width:100%;
 	
 }
@@ -410,7 +410,7 @@
 /*Icons Section Ends*/
 /*Courses Section Starts*/
 .course_sec{
-	padding:4em;
+	padding:4em 0;
 	width:100%;
 }
 .course_card{
@@ -501,7 +501,7 @@
 /*Courses Section Ends*/
 /*Team Section Starts*/
 .team_sec{
-	padding:4em;
+	padding:4em 0;
 	width:100%;
 }
 .team_card{
@@ -644,6 +644,10 @@
 }
 .footer_icons a:hover{
 	background-color:#4fb26c;
+}
+.footer_icons{
+	display:flex;
+	gap:10px;
 }
 	/* Footer Bottom Ends */
 /*Footer Section Starts*/
